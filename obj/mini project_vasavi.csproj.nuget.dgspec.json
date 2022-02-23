@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\c-.NET-programming\\MiniProject 1\\mini project_vasavi.csproj": {}
+    "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\Miniproject2_EF\\mini project_vasavi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\c-.NET-programming\\MiniProject 1\\mini project_vasavi.csproj": {
+    "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\Miniproject2_EF\\mini project_vasavi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\c-.NET-programming\\MiniProject 1\\mini project_vasavi.csproj",
+        "projectUniqueName": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\Miniproject2_EF\\mini project_vasavi.csproj",
         "projectName": "mini project_vasavi",
-        "projectPath": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\c-.NET-programming\\MiniProject 1\\mini project_vasavi.csproj",
+        "projectPath": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\Miniproject2_EF\\mini project_vasavi.csproj",
         "packagesPath": "C:\\Users\\svasa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\c-.NET-programming\\MiniProject 1\\obj\\",
+        "outputPath": "C:\\Users\\svasa\\OneDrive\\Documents\\Git\\Miniproject2_EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
